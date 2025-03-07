@@ -66,16 +66,17 @@ SRF 80 80 140 140
 ## 🧰 Project Structure
 
 ```
-📂 orientation-week6-cg/
-│── 📂 include/ *(Header files: parser.h, alg.h)*  
-│── 📂 source/ *(Main source code with CG optimization)*  
+📂 orientation-week6-cg/  
+│── 📂 src/  
 │   ├── main.cpp  
+│   ├── parser.h  
 │   ├── parser.cpp  
+│   ├── alg.ch  
 │   ├── alg.cpp  
-│── 📄 test.txt *(Input circuit layout description)*  
-│── 📄 output.dpx *(Final placement visualization output)*  
+│── 📄 test.txt # (ignored)  
+│── 📄 output.dpx # (ignored)  
 │── 🔧 Makefile  
-│── 📜 README.md *(This file)*
+│── 📜 README.md # This file
 ```
 
 ## 🔹 **CG Optimization Flow**
