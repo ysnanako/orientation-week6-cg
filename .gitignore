@@ -1,0 +1,24 @@
+# plot #
+########
+*.x
+*.dpx
+*.txt
+
+# object #
+##########
+obj/
+
+# executable #
+##############
+exe
+
+# temp #
+########
+*.o
+*.out
+*.exe
+
+# system #
+##########
+.DS_Store  # macOS metadata file
+Thumbs.db  # Windows thumbnail cache file
