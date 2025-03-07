@@ -77,6 +77,7 @@ SRF 80 80 140 140
 │── 📄 output.dpx # (ignored)  
 │── 🔧 Makefile  
 │── 📜 README.md # This file
+│── 📜 .gitignore
 ```
 
 ## 🔹 **CG Optimization Flow**
