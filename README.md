@@ -1,4 +1,4 @@
-# orientation-week6-cg
+# summer-training-week6-cg
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week6-cg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week6-cg)
